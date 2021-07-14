@@ -1,4 +1,4 @@
-### Hello, friend 👋
+### Hello, friend! 👋
 
 I'm Corey — a front-end developer and recent Bootcamp grad out of Juno College. I'm totally nuts about creative web design and love crafting an engaging (and accessible!) user experience. A little about me:
 
