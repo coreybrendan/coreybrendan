@@ -10,4 +10,4 @@ I'm Corey — a front-end developer and recent Bootcamp grad out of Juno College
 - 💻 Working on bite-sized projects — solo and with pals — when the idea strikes
 - ⚡️ Fun Fact: I'm a dedicated dog-dad to a sweet Boston Terrier pup and plant-dad to lots of leafy, green friends
 
-Thanks for reading. Cheers!
+Thanks for reading, cheers!
